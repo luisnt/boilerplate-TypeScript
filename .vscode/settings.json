@@ -1,0 +1,23 @@
+{
+    "nuxt.isNuxtApp": false,
+    "cSpell.words": [
+        "compiller",
+        "Palio"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/node_modules": true,
+        "node_modules": true,
+        "**/yarn.lock": true,
+        "**/tsconfig.tsbuildinfo": true,
+        "**/package-lock.json": true,
+        "**/.gitignore": true,
+        ".gitignore": true
+    },
+    "explorerExclude.backup": null
+}

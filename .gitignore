@@ -4,3 +4,5 @@ node_modules
 *.tsbuildinfo
 package-lock.json
 yarn.lock
+dist/index.d.ts
+dist/index.js
